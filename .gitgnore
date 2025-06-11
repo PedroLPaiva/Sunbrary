@@ -1,0 +1,10 @@
+# Node (React)
+frontend/node_modules/
+
+# Python (venv e arquivos cache)
+backend/venv/
+__pycache__/
+*.pyc
+
+# Outros
+*.log
